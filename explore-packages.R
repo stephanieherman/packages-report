@@ -12,5 +12,5 @@ ipt <- installed.packages() %>%
   select(Package, LibPath, Version, Built)
 ipt
 
-print('well hello')
+print('hello')
 print('hello again!')
