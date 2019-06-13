@@ -14,5 +14,3 @@ ipt
 
 print('hello')
 print('hello again!')
-
-here is where I make a terrible mistake!
